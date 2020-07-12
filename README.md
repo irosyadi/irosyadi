@@ -1,4 +1,8 @@
-### Hi there 👋
+### Ah, hi... 👋
+
+- 🔭 I’m currently working on Unsoed
+- 🌱 I’m currently learning AI, ML, PV System
+- 📫 How to reach me: imron.rosyadi@unsoed.ac.id
 
 <!--
 **irosyadi/irosyadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
