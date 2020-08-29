@@ -21,7 +21,7 @@
 
 ![irosyadi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irosyadi&theme=radical)
 
-|  <a href="https://irosyadi.github.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Wikidata-logo-without-paddings.svg/1280px-Wikidata-logo-without-paddings.svg.png" width="150px" height="150px" /></a> |
+|  <a href="https://irosyadi.github.io/"><img src="ttps://github.githubassets.com/images/modules/logos_page/Octocat.png" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[irosyadi](https://irosyadi.github.io/)**                                                                                |
 |<a href="https://twitter.com/irosyadi"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/irosyadi"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/imron-rosyadi"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/irosyadi/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
