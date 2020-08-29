@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning AI, ML, PV System
 - 📫 How to reach me: imron.rosyadi@unsoed.ac.id
 
+![irosyadi's Github Stats](https://github-readme-stats.vercel.app/api?username=irosyadi&show_icons=true&theme=radical)
+
 <!--
 **irosyadi/irosyadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
