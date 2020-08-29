@@ -15,6 +15,8 @@
   <img src="https://komarev.com/ghpvc/?username=irosyadi" alt="irosyadi" />
 </p>
 
+[![HitCount](http://hits.dwyl.com/irosyadi/irosyadi.svg)](http://hits.dwyl.com/irosyadi/irosyadi)
+
 ![irosyadi's Github Stats](https://github-readme-stats.vercel.app/api?username=irosyadi&show_icons=true&theme=radical)
 
 ![irosyadi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irosyadi&theme=radical)
