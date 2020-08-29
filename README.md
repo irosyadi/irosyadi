@@ -17,9 +17,9 @@
 
 [![HitCount](http://hits.dwyl.com/irosyadi/irosyadi.svg)](http://hits.dwyl.com/irosyadi/irosyadi)
 
-![irosyadi's Github Stats](https://github-readme-stats.vercel.app/api?username=irosyadi&show_icons=true&theme=radical)
+![irosyadi's Github Stats](https://github-readme-stats.vercel.app/api?username=irosyadi&show_icons=true)
 
-![irosyadi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irosyadi&theme=radical)
+![irosyadi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irosyadi)
 
 |  <a href="https://irosyadi.github.io/"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
