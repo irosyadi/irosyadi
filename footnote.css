@@ -79,41 +79,6 @@ p.hover input + label:hover + small {
   pointer-events: none;
 }
 
-/******************
- Page demo styles */
-
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-
-body {
-  font: 19px / 1.5 IBM Plex Serif, serif;
-  padding: 5em 5vw;
-  max-width: 70ch;
-  margin: 0 auto;
-}
-
-p {
-  position: relative;
-}
-
-p + p {
-  margin-top: 3.5em;
-}
-
-p:before {
-  text-transform: uppercase;
-  position: absolute;
-  left: 0;
-  top: -2.5em;
-  font-size: 0.6em;
-  letter-spacing: 1px;
-  opacity: 0.5;
-  font-family: IBM Plex Sans, sans-serif;
-  content: attr(class);
-}
 </style>
 
 <!-- Tufte CSS style footnotes, minimum viable markup.Probably not accessible at all:
