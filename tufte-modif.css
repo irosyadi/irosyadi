@@ -1,3 +1,5 @@
+<style>
+
 article {
   padding: 1em 4em;
   max-width: 30em;
@@ -32,3 +34,5 @@ article sidenote::after {
     width: 1rem;
     content: counter(noteNum) "";
 }
+
+</style>
