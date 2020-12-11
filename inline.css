@@ -1,4 +1,4 @@
-<style>
+
 details, summary {
   display: inline;
   vertical-align: super;
@@ -11,4 +11,4 @@ details[open] {
   display: contents;
 }
 
-}</style>
+}
