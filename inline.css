@@ -6,12 +6,14 @@ details, summary {
 details[open] {
   display: contents;
 }
+<!--
 details[open]::before {
   content: " [";
 }
 details[open]::after {
   content: "]";
 }
+-->
 summary {
   cursor: pointer;
 }
