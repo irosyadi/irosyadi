@@ -1,0 +1,14 @@
+<style>
+details, summary {
+  display: inline;
+  vertical-align: super;
+  font-size: 0.75em;
+}
+summary {
+  cursor: pointer;
+}
+details[open] {
+  display: contents;
+}
+
+}</style>
