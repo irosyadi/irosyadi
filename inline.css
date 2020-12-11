@@ -1,15 +1,17 @@
-<style>
-
 details, summary {
   display: inline;
   vertical-align: super;
   font-size: 0.75em;
 }
-summary {
-  cursor: pointer;
-}
 details[open] {
   display: contents;
 }
-
-</style>
+details[open]::before {
+  content: " [";
+}
+details[open]::after {
+  content: "]";
+}
+summary {
+  cursor: pointer;
+}
