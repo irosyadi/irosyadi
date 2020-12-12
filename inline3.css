@@ -1,0 +1,19 @@
+details,
+summary {
+  display: inline;
+  vertical-align: super;
+  font-size: 0.75em;
+}
+summary {
+  cursor: pointer;
+  outline: none;
+}
+details[open] {
+  /* display: contents; */
+  position: absolute;
+  border: 1px solid #eee;
+  padding: 0.25rem;
+  background-color: #fff;
+  -webkit-box-shadow: 2px 2px 4px -4px rgba(0, 0, 0, 0.43);
+  box-shadow: 2px 2px 4px -4px rgba(0, 0, 0, 0.43);
+}
