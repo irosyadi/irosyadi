@@ -3,9 +3,15 @@ details, summary {
   vertical-align: super;
   font-size: 0.75em;
 }
+summary {
+  cursor: pointer;
+}
 details[open] {
   display: contents;
 }
-summary {
-  cursor: pointer;
+details[open]::before {
+  content: " [";
+}
+details[open]::after {
+  content: "]";
 }
