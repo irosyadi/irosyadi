@@ -4,9 +4,16 @@
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 </p>
 
-- 🔭 I’m currently working on Unsoed
-- 🌱 I’m currently learning AI, ML, PV System
-- 📫 How to reach me: imron.rosyadi@unsoed.ac.id
+- 🔭 I’m currently working on [Universitas Jenderal Soedirman - Unsoed](http://elektro.ft.unsoed.ac.id/imron-rosyadi/)
+- 🌱 I’m currently learning Artificial Intelligence, Machine Learning, Control System, PV System
+
+### Contact me:
+- 📫 Mail: imron.rosyadi@unsoed.ac.id
+
+### Knowledge Base
+- 📘 https://irosyadi.github.io
+- 📙 https://irosyadi.gitbook.io
+- 📕 https://irosyadi.netlify.app
 
 [![Twitter: irosyadi](https://img.shields.io/twitter/follow/irosyadi?style=social)](https://twitter.com/irosyadi)
 [![Linkedin: irosyadi](https://img.shields.io/badge/-irosyadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irosyadi/)](https://www.linkedin.com/in/irosyadi/)
