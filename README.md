@@ -11,6 +11,7 @@
 - 📫 Mail: imron.rosyadi@unsoed.ac.id
 
 ### Knowledge Base
+- 📗 https://irosyadi-lp.netlify.app
 - 📘 https://irosyadi.github.io
 - 📙 https://irosyadi.gitbook.io
 - 📕 https://irosyadi.netlify.app
