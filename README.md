@@ -1,9 +1,5 @@
 [![Hey, I'm Imron Rosyadi!](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f9de&text=Hey%252C%2520I%27m%2520Imron%2520Rosyadi%21)](https://pimp-my-readme.webapp.io)
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-</p>
-
 - 🔭 I’m currently working on [Universitas Jenderal Soedirman - Unsoed](http://elektro.ft.unsoed.ac.id/imron-rosyadi/)
 - 🌱 I’m currently learning Artificial Intelligence, Machine Learning, Control System, PV System
 
