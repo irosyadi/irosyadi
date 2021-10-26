@@ -1,5 +1,4 @@
-### Hi, I am Imron Rosyadi
-[Hey, I'm irosyadi](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f9de&text=Hey%252C%2520I%27m%2520irosyadi)
+[![Hey, I'm Imron Rosyadi!](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f9de&text=Hey%252C%2520I%27m%2520Imron%2520Rosyadi%21)](https://pimp-my-readme.webapp.io)
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
@@ -24,7 +23,7 @@
   <img src="https://komarev.com/ghpvc/?username=irosyadi" alt="irosyadi" />
 </p>
 
-[![HitCount](http://hits.dwyl.com/irosyadi/irosyadi.svg)](http://hits.dwyl.com/irosyadi/irosyadi)
+[![Visitor Counter for irosyadi](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=irosyadi)}](https://pimp-my-readme.webapp.io)
 
 ![irosyadi's Github Stats](https://github-readme-stats.vercel.app/api?username=irosyadi&show_icons=true)
 
