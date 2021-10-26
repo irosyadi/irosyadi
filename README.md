@@ -19,8 +19,6 @@
   <img src="https://komarev.com/ghpvc/?username=irosyadi" alt="irosyadi" />
 </p>
 
-[![Visitor Counter for irosyadi](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=irosyadi)}](https://pimp-my-readme.webapp.io)
-
 ![irosyadi's Github Stats](https://github-readme-stats.vercel.app/api?username=irosyadi&show_icons=true)
 
 ![irosyadi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irosyadi)
@@ -29,3 +27,5 @@
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[irosyadi](https://irosyadi.github.io/)**                                                                                |
 |<a href="https://twitter.com/irosyadi"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/irosyadi"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/imron-rosyadi"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/irosyadi/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
+
+[![Visitor Counter for irosyadi](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=irosyadi)}](https://pimp-my-readme.webapp.io)
