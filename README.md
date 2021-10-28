@@ -8,13 +8,13 @@
 - 📫 Mail: imron.rosyadi@unsoed.ac.id
 
 ### Knowledge Base
-- 📗 https://irosyadi-web.netlify.app/
+- 📗 https://irosyadi-web.netlify.app
 - 📘 https://irosyadi.github.io
 - 📙 https://irosyadi.gitbook.io
 - 📕 https://irosyadi.netlify.app
 
 ### Personal Web
-- 🌏 https://rosyadi.com/
+- 🌏 https://rosyadi.com
 
 [![Twitter: irosyadi](https://img.shields.io/twitter/follow/irosyadi?style=social)](https://twitter.com/irosyadi)
 [![Linkedin: irosyadi](https://img.shields.io/badge/-irosyadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irosyadi/)](https://www.linkedin.com/in/irosyadi/)
