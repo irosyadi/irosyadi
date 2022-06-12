@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://source.unsplash.com/200x200/?cat" />
 </p>
+
+![](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B;I'm+Imron)
   
 ## Imron Rosyadi
 - 🔭 I’m currently working on [Universitas Jenderal Soedirman - Unsoed](http://elektro.ft.unsoed.ac.id/imron-rosyadi/)
