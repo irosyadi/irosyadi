@@ -27,6 +27,10 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=irosyadi" alt="visitor badge"/>
 </p>
 
+### Blogpost
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Github Statistics
   
 ![Github Metrics](https://metrics.lecoq.io/irosyadi?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FJakarta)
