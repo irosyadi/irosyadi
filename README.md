@@ -22,7 +22,7 @@
 </p>
 
 ## Github Statistics
-
+  
 ![Github Metrics](https://metrics.lecoq.io/irosyadi?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FJakarta)
 
 <p align="left">
@@ -30,8 +30,8 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=irosyadi" />
 </p>
 
+<p align="center">
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irosyadi&layout=compact" />
- 
-<br />
+</p>
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=irosyadi&theme=minimal)
