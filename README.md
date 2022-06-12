@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://source.unsplash.com/200x200/?animals" />
+</p>
+  
 ## Imron Rosyadi
 - 🔭 I’m currently working on [Universitas Jenderal Soedirman - Unsoed](http://elektro.ft.unsoed.ac.id/imron-rosyadi/)
 - 🌱 I’m currently learning Artificial Intelligence, Machine Learning, Control System, PV System
