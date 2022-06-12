@@ -1,4 +1,4 @@
-### Imron Rosyadi
+## Imron Rosyadi
 - 🔭 I’m currently working on [Universitas Jenderal Soedirman - Unsoed](http://elektro.ft.unsoed.ac.id/imron-rosyadi/)
 - 🌱 I’m currently learning Artificial Intelligence, Machine Learning, Control System, PV System
 
@@ -14,11 +14,27 @@
 ### Personal Web
 - 🌏 https://rosyadi.com
 
+### Github Statistics
+
 ![Metrics](https://metrics.lecoq.io/irosyadi?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FJakarta)
 
 ![irosyadi's Github Stats](https://github-readme-stats.vercel.app/api?username=irosyadi&show_icons=true)
 
 ![irosyadi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irosyadi)
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=irosyadi" alt="irosyadi" />
+</p>
+<p align="left">
+![](https://visitor-badge.glitch.me/badge?page_id=irosyadi)
+</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irosyadi&theme=radical" alt="irosyadi" /></p>
+ 
+<br />
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=irosyadi&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+### Social Media
 
 |  <a href="https://irosyadi.github.io/"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
@@ -28,6 +44,3 @@
 [![Twitter: irosyadi](https://img.shields.io/twitter/follow/irosyadi?style=social)](https://twitter.com/irosyadi)
 [![Linkedin: irosyadi](https://img.shields.io/badge/-irosyadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irosyadi/)](https://www.linkedin.com/in/irosyadi/)
 [![GitHub: irosyadi](https://img.shields.io/github/followers/irosyadi?label=follow&style=social)](https://github.com/irosyadi)
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=irosyadi" alt="irosyadi" />
-</p>
