@@ -21,6 +21,8 @@
   <img src="https://komarev.com/ghpvc/?username=irosyadi" alt="irosyadi" />
 </p>
 
+![Metrics](https://metrics.lecoq.io/irosyadi?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FJakarta)
+
 ![irosyadi's Github Stats](https://github-readme-stats.vercel.app/api?username=irosyadi&show_icons=true)
 
 ![irosyadi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irosyadi)
