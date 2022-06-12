@@ -10,30 +10,27 @@
 - 📘 https://irosyadi.github.io
 - 📙 https://irosyadi.gitbook.io
 - 📕 https://irosyadi.netlify.app
-
-### Personal Web
 - 🌏 https://rosyadi.com
 
-### Github Statistics
-
-![Metrics](https://metrics.lecoq.io/irosyadi?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FJakarta)
-
-![irosyadi's Github Stats](https://github-readme-stats.vercel.app/api?username=irosyadi&show_icons=true)
-
-![irosyadi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irosyadi)
-
+### 📈 Github Statistics
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=irosyadi" alt="irosyadi" />
-</p>
-<p align="left">
-![](https://visitor-badge.glitch.me/badge?page_id=irosyadi)
+  <img src="https://visitor-badge.glitch.me/badge?page_id=irosyadi" alt="visitor badge"/>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irosyadi&theme=radical" alt="irosyadi" /></p>
+![Github Metrics](https://metrics.lecoq.io/irosyadi?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FJakarta)
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=irosyadi&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=irosyadi" />
+</p>
+
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irosyadi&layout=compact" />
  
 <br />
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=irosyadi&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=irosyadi&theme=minimal)
+
 ### Social Media
 
 |  <a href="https://irosyadi.github.io/"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="150px" height="150px" /></a> |
