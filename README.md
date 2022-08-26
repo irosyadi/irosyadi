@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Artificial Intelligence, Machine Learning, Control System, PV System
 
 ### Contact me:
-- 📫 Mail: imron.rosyadi@unsoed.ac.id
+- 📫 Mail: irosyadi@duck.com
 
 ### Knowledge Base
 - 📗 https://irosyadi-web.netlify.app
