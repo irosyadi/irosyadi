@@ -19,7 +19,7 @@
 - 🌏 https://rosyadi.com
 - 📃 https://irosyadi.mataroa.blog
 - 📃 https://irosyadi.bearblog.dev
-- 📃 https://irosyadi-garden.bnetlify.app
+- 📃 https://irosyadi-garden.netlify.app
 
 ### Social Media
 [![Twitter: irosyadi](https://img.shields.io/twitter/follow/irosyadi?style=social)](https://twitter.com/irosyadi)
