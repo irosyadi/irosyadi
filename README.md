@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://random-image-pepebigotes.vercel.app/api/random-image">
-
+<p style="text-align: center;">
+  <img src="https://random-image-pepebigotes.vercel.app/api/random-image" width="300" height="200">
 </p>
 
 ![](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B;I'm+Imron)
