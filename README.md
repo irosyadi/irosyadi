@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://loremflickr.com/200/cat">
+  <img src="https://loremflickr.com/200/200/cat">
 
 </p>
 
