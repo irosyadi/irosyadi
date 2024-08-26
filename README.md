@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://picsum.photos/300/200" alt="Random Image">
+  <img src="https://loremflickr.com/200/cat">
 
 </p>
 
