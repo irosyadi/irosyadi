@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://picsum.photos/200/300.webp" />
+  <img src="https://picsum.photos/200.webp" />
 </p>
 
 ![](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B;I'm+Imron)
