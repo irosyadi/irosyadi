@@ -1,5 +1,5 @@
 <p style="text-align: center;">
-  <img src="https://bing.biturl.top/?format=image" width="300" height="200">
+  <img src="https://bing.biturl.top/?format=image" width="300" height="200" align="center">
 </p>
 
 ![](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B;I'm+Imron)
