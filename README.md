@@ -34,15 +34,14 @@ I'm _Imron Rosyadi_
 - 📕 [irosyadi.netlify.app](https://irosyadi.netlify.app) or [irosyadi.github.io](https://irosyadi.github.io) or [irosyadi.gitbook.io](https://irosyadi.gitbook.io) : big lists of apps, web-apps, technologies, learning, hacking, and writing notes
 
 ### Social Media
+
 [![Twitter: irosyadi](https://img.shields.io/twitter/follow/irosyadi?style=social)](https://twitter.com/irosyadi)
 [![Linkedin: irosyadi](https://img.shields.io/badge/-irosyadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irosyadi/)](https://www.linkedin.com/in/irosyadi/)
 [![GitHub: irosyadi](https://img.shields.io/github/followers/irosyadi?label=follow&style=social)](https://github.com/irosyadi)
 
 ## Github Statistics
-  
-![Github Metrics](https://metrics.lecoq.io/irosyadi?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FJakarta)
 
-<p align="left">
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=irosyadi&show_icons=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=irosyadi" />
 </p>
